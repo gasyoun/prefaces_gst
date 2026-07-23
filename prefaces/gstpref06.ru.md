@@ -1,0 +1,13 @@
+---
+source_scan: gst_Page_007_Image_0001.png
+source_page: Corrections
+volume: 1
+language: ru
+translation_of: gstpref06.md
+---
+
+# ИСПРАВЛЕНИЯ.
+
+P. = страница; l. = строка; r. = читать; a. = добавить; d. = снять; p. = вместо; *a* = первый столбец; *b* = второй столбец.
+
+P. 4 *b*, l. 21, r. A daughter appointed as पुत्रिका q. v. by an *implied* intention (p. A daughter &c.). — 6 *b*, l. 50, r. चञ्चुप्; l. 51, r. चणप्. — 13 *b*, l. 6, a. *Tatpur.* — 15 *a*, l. 17, r. तसि. — 19 *a*, l. 25, a. See for the detail s. v. अपूर्व. — 23 *a*, l. 9, 36, a. *Tatpur.* — 24 *a*, l. 32, r. *A poison like the disease* अजका (p. A poisonous &c.). — 26 *a*, l. 27, r. आद; l. 40, r. -लिका (p. का). — 28 *a*, l. 15, 16, 18, r. the instances अवाच्, उदच् &c. (p. अवाञ्च् &c.). — 29 *b*, l. 37, r. kṛt aff. शानच्. — 30 *b*, l. 27, a. *Bolt of a door.* — 32 *b*, l. 55, r. -मिका (p. का). — 33 *b*, l. 5, r. -री. — 37 *b*, l. 15, r. अतिराजि. — 38 *b*, l. 19, r. -लिका (p. का). — 40 *b*, l. 46, r. अतिहस्ति. — 41 *b*, l. 50, d. the article अत्न. — 44 *b*, l. 12, r. taddh. aff. वुन् and d. the rest (implying &c.). — 46 *b*, l. 47, r. -न्तिका (p. का). — 49 *a*, l. 13, r. -विका (p. का). — 51 *b*, l. 56, r. ठन्. — 52 *a*, l. 52, r. अधराच्. — 53 *a*, l. 54, r. -णिका (p. का). — 59 *b*, l. 53, r. अध्यच्. — 60 *a*, l. 28, 38; *b*, l. 17, 26, 39, 54, r. I. Dwigu; *a*, l. 34, 44, 48, 52, 56, and *b*, l. 3, 6, 32, 35, d. Dwigu. — 62 *a*, l. 16, r. अध्यारोपण…(राम). — 68 *a*, l. 1, r. -न्तिका (p. का). — 69 *a*, l. 25, r. -न्यद्. — 69 *b*, l. 39 and 70 *b*, l. I, r. *Non-resumption (of a gift).* — 70 *a*, l. 45, a. but see अपस्फुर् and अपस्फुरत्. — 71 *b*, l. 39, r. -रुः (p. रु). — 72 *a*, l. 9, r. -र्थिका (p. का). — 76 *a*, l. 5, r. -त्मिका (p. का). — 77 *a*, l. 30, r. -मिका and l. 50, d. 'the insertion &c.'. — 80 *b*, l. 30, r. तसि. — 82 *b*, l. 36, a. E. अ neg. and निवर्तिन्. — 87 *b*, l. 5, r. eighth. — 88 *b*, l. 2, r. conformity. — 92 *a*, l. 48, r. -ती (p. न्ती). — 103 *a*, l. 2, r. simply. — 104 *b*, l. 30, r. '1. kṛtya, 2. kṛt aff. क्यप्'. — 107 *a*, l. 28, r. ष्णिका (p. का). — 109 *b*, l. 40, r. स वा. — 110 *a*, l. 22, r. -निका (p. का) -कम्. — 112 *a*, l. 21, r. (-त्तिः) — 113 *b*, l. 30, r. -हः; l. 36, r. -की. — 125 *b*, l. 12, a. *Tatpur.* — 126 *a*, l. 48, r. वती. — 131 *b*, l. 48, r. enemy. — 137 *b*, l. 54, r. *Bahuvr.* — 138 *b*, l. 43, d. the instance प्रकृति˚ and 141 *b*, l. 55, d. the instance तयोर˚. — 143 *b*, l. 12, r. -शिः. — 145 *b*, l. 18, r. -ङ्गिका (p. का). — 147 *a*, l. 34, r. र्थिका (p. का); l. 45, r. -शिः. — 152 *b*, l. 54, r. अन्वष्टका. —
