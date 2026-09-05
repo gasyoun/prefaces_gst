@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: gst_Page_013_Image_0001.png
 source_page: Title, vol. 1 part 4
@@ -48,3 +50,5 @@ DAVID NUTT.
 
 MDCCCLX.
 (МАЙ.)
+
+_Dr. Mārcis Gasūns_

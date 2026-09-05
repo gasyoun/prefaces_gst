@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 # GST front matter — Goldstücker's *A Dictionary, Sanskrit and English*
 
 OCR + translation of the **front matter** (title pages, dedication, preliminary remarks, corrections/additions) of:
@@ -32,26 +34,26 @@ The tiny digitizer running header/footer stamps added to every scan were omitted
 
 | Edition | File |
 |---|---|
-| English (source) | [gstpref_all.en.md](gstpref_all.en.md) |
-| Russian | [gstpref_all.ru.md](gstpref_all.ru.md) |
-| Builder script | [build_combined.py](build_combined.py) |
+| English (source) | [gstpref_all.en.md](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref_all.en.md) |
+| Russian | [gstpref_all.ru.md](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref_all.ru.md) |
+| Builder script | [build_combined.py](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/build_combined.py) |
 
 ## Contents
 
 | NN | Section | Vol. | Source (EN) | Russian |
 |---|---|---|---|---|
-| 01 | Title (Vol. I) | 1 | [gstpref01.md](gstpref01.md) | [ru](gstpref01.ru.md) |
-| 02 | Dedication (to H. H. Wilson) | 1 | [gstpref02.md](gstpref02.md) | [ru](gstpref02.ru.md) |
-| 03 | Preliminary Remarks, 1 | 1 | [gstpref03.md](gstpref03.md) | [ru](gstpref03.ru.md) |
-| 04 | Preliminary Remarks, 2 | 1 | [gstpref04.md](gstpref04.md) | [ru](gstpref04.ru.md) |
-| 05 | Corrections and Additions | 1 | [gstpref05.md](gstpref05.md) | [ru](gstpref05.ru.md) |
-| 06 | Corrections | 1 | [gstpref06.md](gstpref06.md) | [ru](gstpref06.ru.md) |
-| 07 | Title, Vol. I Part 3 (अपतल्क — अभिचेद्य) | 1 | [gstpref07.md](gstpref07.md) | [ru](gstpref07.ru.md) |
-| 08 | Title, Vol. I Part 4 (अभिज — अभ्याहित) | 1 | [gstpref08.md](gstpref08.md) | [ru](gstpref08.ru.md) |
+| 01 | Title (Vol. I) | 1 | [gstpref01.md](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref01.md) | [ru](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref01.ru.md) |
+| 02 | Dedication (to H. H. Wilson) | 1 | [gstpref02.md](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref02.md) | [ru](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref02.ru.md) |
+| 03 | Preliminary Remarks, 1 | 1 | [gstpref03.md](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref03.md) | [ru](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref03.ru.md) |
+| 04 | Preliminary Remarks, 2 | 1 | [gstpref04.md](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref04.md) | [ru](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref04.ru.md) |
+| 05 | Corrections and Additions | 1 | [gstpref05.md](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref05.md) | [ru](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref05.ru.md) |
+| 06 | Corrections | 1 | [gstpref06.md](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref06.md) | [ru](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref06.ru.md) |
+| 07 | Title, Vol. I Part 3 (अपतल्क — अभिचेद्य) | 1 | [gstpref07.md](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref07.md) | [ru](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref07.ru.md) |
+| 08 | Title, Vol. I Part 4 (अभिज — अभ्याहित) | 1 | [gstpref08.md](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref08.md) | [ru](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref08.ru.md) |
 
 ## Signatures / dates found
 
-- **Preliminary Remarks** signed: *University College, London, June, the 30th, 1856. TH. GOLDSTÜCKER.* ([gstpref04.md](gstpref04.md))
+- **Preliminary Remarks** signed: *University College, London, June, the 30th, 1856. TH. GOLDSTÜCKER.* ([gstpref04.md](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/gstpref04.md))
 - Title page Vol. I: **MDCCCLVI** (1856).
 - Title page Vol. I Part 3: **MDCCCLVIII (November)** (1858).
 - Title page Vol. I Part 4: **MDCCCLX (May)** (1860).
@@ -75,3 +77,5 @@ Produced by the `/cologne-preface-ocr` skill (vision OCR + translation), **resum
 ---
 
 **Home-repo decision needed.** GST currently has no dedicated dictionary repo cloned locally (source lives only inside [`csl-orig/v02/gst`](https://github.com/sanskrit-lexicon/csl-orig/tree/master/v02/gst)). This `prefaces_gst/` working directory is **not** a git repo and was **not** committed. A maintainer decision is required on where these files should live (e.g. a new `sanskrit-lexicon/GST` repo's `prefaces/`, or a `prefaces/` folder inside another GST-owning repo) before committing and adding the repo-root index entry per the skill's Phase 6b.
+
+_Dr. Mārcis Gasūns_

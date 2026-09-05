@@ -1,6 +1,8 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English)
 
-Per-page files: `gstprefNN.md`. Index: [README.md](README.md).
+Per-page files: `gstprefNN.md`. Index: [README.md](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -269,3 +271,5 @@ DAVID NUTT.
 
 MDCCCLX.
 (MAY.)
+
+_Dr. Mārcis Gasūns_

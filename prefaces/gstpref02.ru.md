@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: gst_Page_002_Image_0001.png
 source_page: Dedication
@@ -33,3 +35,5 @@ translation_of: gstpref02.md
 В ЗНАК ГЛУБОКОГО УВАЖЕНИЯ И В СВИДЕТЕЛЬСТВО ИСКРЕННЕЙ ПРИВЯЗАННОСТИ
 
 АВТОРОМ.
+
+_Dr. Mārcis Gasūns_

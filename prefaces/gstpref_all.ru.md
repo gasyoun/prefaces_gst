@@ -1,6 +1,8 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `gstprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `gstprefNN.ru.md`. Index: [README.md](https://github.com/gasyoun/prefaces_gst/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -250,3 +252,5 @@ DAVID NUTT.
 
 MDCCCLX.
 (МАЙ.)
+
+_Dr. Mārcis Gasūns_

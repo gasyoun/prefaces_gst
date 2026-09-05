@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: gst_Page_004_Image_0001.png
 source_page: Remarks, 2
@@ -26,3 +28,5 @@ translation_of: gstpref04.md
 Т. ГОЛЬДШТЮКЕР.
 
 </div>
+
+_Dr. Mārcis Gasūns_

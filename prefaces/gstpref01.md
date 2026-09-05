@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: gst_Page_001_Image_0001.png
 source_page: Title
@@ -46,3 +48,5 @@ LONDON:
 DAVID NUTT.
 
 MDCCCLVI.
+
+_Dr. Mārcis Gasūns_
