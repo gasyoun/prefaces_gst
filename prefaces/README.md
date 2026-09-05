@@ -9,13 +9,13 @@ OCR + translation of the **front matter** (title pages, dedication, preliminary 
 Source scans (Cologne csldoc build):
 [gstpref.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/gstpref.html)
 
-The dictionary itself in the Cologne corpus: [csl-orig `v02/gst`](https://github.com/sanskrit-lexicon/csl-orig/tree/master/v02/gst).
+The dictionary itself in the Cologne corpus: csl-orig `v02/gst`.
 
 ## Source language
 
 The front matter is **English** throughout. Therefore the per-page base file `gstprefNN.md` is already the English edition (no separate `.en.md`); only a Russian translation `gstprefNN.ru.md` is provided. Personal names and bibliographic work-titles are kept verbatim in the source; in the Russian files personal names are Cyrillicised (Goldstücker → Гольдштюкер, Wilson → Уилсон, Asher → Ашер, Aufrecht → Ауфрехт, Cassal → Кассаль), publisher imprints kept in the Latin original.
 
-The two **Corrections** pages (`gstpref05`, `gstpref06`) are dense errata lists of `Page / line / read / add / take off` entries with many small Devanāgarī affix fragments; these were transcribed against the dictionary's own digitization in [`csl-orig/v02/gst/gst.txt`](https://github.com/sanskrit-lexicon/csl-orig/tree/master/v02/gst) (sections `CORRECTIONS AND ADDITIONS.` and `CORRECTIONS.`), whose SLP1 codes give the exact Devanāgarī. Editorial running prose is translated in the `.ru` files; page/line references, Devanāgarī, abbreviation keys (`sam. aff.`, `kṛt aff.`, `taddh. aff.`, `Tatpur.`, `Bahuvr.`) and corrected English dictionary text are kept verbatim.
+The two **Corrections** pages (`gstpref05`, `gstpref06`) are dense errata lists of `Page / line / read / add / take off` entries with many small Devanāgarī affix fragments; these were transcribed against the dictionary's own digitization in `csl-orig/v02/gst/gst.txt` (sections `CORRECTIONS AND ADDITIONS.` and `CORRECTIONS.`), whose SLP1 codes give the exact Devanāgarī. Editorial running prose is translated in the `.ru` files; page/line references, Devanāgarī, abbreviation keys (`sam. aff.`, `kṛt aff.`, `taddh. aff.`, `Tatpur.`, `Bahuvr.`) and corrected English dictionary text are kept verbatim.
 
 The tiny digitizer running header/footer stamps added to every scan were omitted (not part of the original).
 
@@ -76,6 +76,6 @@ Produced by the `/cologne-preface-ocr` skill (vision OCR + translation), **resum
 
 ---
 
-**Home-repo decision needed.** GST currently has no dedicated dictionary repo cloned locally (source lives only inside [`csl-orig/v02/gst`](https://github.com/sanskrit-lexicon/csl-orig/tree/master/v02/gst)). This `prefaces_gst/` working directory is **not** a git repo and was **not** committed. A maintainer decision is required on where these files should live (e.g. a new `sanskrit-lexicon/GST` repo's `prefaces/`, or a `prefaces/` folder inside another GST-owning repo) before committing and adding the repo-root index entry per the skill's Phase 6b.
+**Home-repo decision needed.** GST currently has no dedicated dictionary repo cloned locally (source lives only inside `csl-orig/v02/gst`). This `prefaces_gst/` working directory is **not** a git repo and was **not** committed. A maintainer decision is required on where these files should live (e.g. a new `sanskrit-lexicon/GST` repo's `prefaces/`, or a `prefaces/` folder inside another GST-owning repo) before committing and adding the repo-root index entry per the skill's Phase 6b.
 
 _Dr. Mārcis Gasūns_
